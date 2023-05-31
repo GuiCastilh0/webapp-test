@@ -4,6 +4,7 @@ import { CdkOverlayContainerComponent } from './main-controller/cdk-overlay-cont
 import { NavigationBarComponent } from './navigation-bar/navigation-bar.component';
 import { CustomerLogoComponent } from './navigation-bar/customer-logo/customer-logo.component';
 import { FooterComponent } from './footer/footer.component';
+import { ProductsListComponent } from './products-list/products-list.component';
 
 const Components = [
 
@@ -13,7 +14,8 @@ const Components = [
 	NavigationBarComponent,
 	CustomerLogoComponent,
 	IconSvgComponent,
-	FooterComponent
+	FooterComponent,
+	ProductsListComponent
 
 ];
 
